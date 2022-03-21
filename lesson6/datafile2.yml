@@ -1,0 +1,18 @@
+..generic:
+  git2rdata: 0.4.0
+  optimize: yes
+  NA string: NA
+  hash: 89f362d6fc9ed8886bf6d8959a6c6fd1d9a4dabc
+  data_hash: 51a97d96e8817297c9d97ec0adafc21aaa851767
+pop1.id:
+  class: character
+pop1.father:
+  class: character
+pop1.mother:
+  class: character
+pop1.pheno:
+  class: numeric
+pop1.gv:
+  class: numeric
+gen:
+  class: integer
