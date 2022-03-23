@@ -1,0 +1,22 @@
+..generic:
+  git2rdata: 0.4.0
+  optimize: yes
+  NA string: NA
+  hash: 1f5a87a6fa89f1da72071000f59f47d6f17d2a7c
+  data_hash: 2e64b7b1f71162c89da66a950a6abaa1fdeef5fc
+id:
+  class: character
+father:
+  class: character
+mother:
+  class: character
+gv:
+  class: numeric
+sex:
+  class: character
+gen:
+  class: integer
+farm:
+  class: numeric
+pheno:
+  class: numeric
